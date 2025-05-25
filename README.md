@@ -1,3 +1,11 @@
+# credentials :
+admin:
+email:admin@example.com
+password : admin123
+Employee 1 : [check local storage for all employee details]
+email: john.doe@example.com
+password:123
+
 # 🧑‍💼 Employee Management System
 
 A simple Employee Management System built using **React**, **Context API**, and **localStorage**. It allows an admin to assign tasks to employees and track their status — New, Active, Completed, or Failed.
